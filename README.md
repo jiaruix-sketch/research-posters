@@ -6,3 +6,7 @@ A collection of my research posters for public viewing and sharing.
 ### Ultrafast Electronic Dynamics in Quantum Materials Probed by TR-ARPES
 
 [View poster (PDF)](Ultrafast-Electronic-Dynamics-in-Quantum-Materials-Probed-by-TR-ARPES.pdf)
+
+Click the preview below to open the full PDF.
+
+[![TR-ARPES research poster preview](TR-ARPES-Poster-Preview.png)](Ultrafast-Electronic-Dynamics-in-Quantum-Materials-Probed-by-TR-ARPES.pdf)
