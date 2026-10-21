@@ -5,7 +5,7 @@ A collection of my research posters for public viewing and sharing.
 
 ### Ultrafast Electronic Dynamics in Quantum Materials Probed by TR-ARPES
 
-Presented at the Berkeley Discovery Program Symposium.
+**Presented at the Berkeley Discovery Program Symposium**.
 
 Click the preview below to open the full PDF.
 
